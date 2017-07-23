@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Human Brain Project]]></title>
+        <description><![CDATA[Human Brain Project]]></description>
+        <link>https://thegrid.ai/hbp-medical-informatics-platform/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 23 Jul 2017 22:10:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hbp-medical-informatics-platform/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MIP in a Nutshell :: MIP specifications]]></title>
+            <description><![CDATA[<article><h1>MIP in a Nutshell :: MIP specifications</h1><p>Specifications for the Medical Informatics Platform of the Human Brain Project.</p></article>]]></description>
+            <link>http://193.204.145.80:1313/media/_1-mip-in-a-nutshell/</link>
+            <guid isPermaLink="false">990bae32-dc11-4d7c-833c-fdb65dcde4ba</guid>
+            <pubDate>Sun, 23 Jul 2017 22:10:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
