@@ -1,14 +1,16 @@
+layout_spectrum: 0.25767732737355376
+typography_spectrum: 0.6373500060946634
 color:
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
-  brandStrength: 0.528585831169039
-  lightness: 0.3690006588585675
-  saturation: 0.9997284698765725
-  rhythmicContrast: 0.14941679849289358
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.5604173047024535
+  lightness: 0.015073815457393775
+  saturation: 0.49252841815518417
+  rhythmicContrast: 0.20241586034379827
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: HBP Medical Informatics Platform
-layout_spectrum: 0.39008387248031795
-typography_spectrum: 0.2791163087822497
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
