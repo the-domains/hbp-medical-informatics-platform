@@ -1,0 +1,71 @@
+color:
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  brandStrength: 0.528585831169039
+  lightness: 0.3690006588585675
+  saturation: 0.9997284698765725
+  rhythmicContrast: 0.14941679849289358
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: HBP Medical Informatics Platform
+layout_spectrum: 0.39008387248031795
+typography_spectrum: 0.2791163087822497
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMNWExzouMJw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMNWExzouMJw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMNWExzouMJw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: HumanBrainProject
+          url: 'https://www.youtube.com/user/TheHumanBrainProject'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      keywords:
+        - video
+        - sharing
+        - camera phone
+        - video phone
+        - free
+        - upload
+      description: >-
+        The Medical Informatics Platform (MIP), built by Subproject 8 of the
+        Human Brain Project, provides sophisticated tools for researchers,
+        clinicians and epidemiologists, to name but a few, for exploration and
+        analysis of Big Data relevant to brain diseases. The MIP is a web-based
+        platform allowing users not only to share data and know-how, but also to
+        collaborate in a true translational way.
+      '@type': VideoObject
+      app_links: []
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=MNWExzouMJw'
+      title: The HBP Medical Informatics Platform
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+analytics:
+  twitter: HBPMedical
+purpose:
+  - type: external
+    url: 'https://mip.humanbrainproject.eu'
+    label: Go to the platform
+github: true
